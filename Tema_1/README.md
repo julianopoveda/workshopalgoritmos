@@ -17,3 +17,5 @@ Um programa nada mais é que um algoritmo ou mais algoritmos que podem ser execu
 As linguagens de programação são o idioma que utilizamos para montar os algoritmos. No entanto, existe um processo chamado de compilação ou interpretação que converte as instruções escritas nessa linguagem de programação para a linguagem de máquina.
 
 Portanto, as linguagens de programação são uma forma em que o ser humano consegue expressar suas intenções em um nível mais alto e com o auxilio de um interpretador de código ou compilador consegue traduzir para um idioma que a máquina entende.
+
+Próximo assunto: [Hello World](../Tema_2/README.md)
