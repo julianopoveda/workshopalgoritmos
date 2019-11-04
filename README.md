@@ -12,7 +12,7 @@ Dentre tantas linguens escolhi Python porque julgo ser a linguagem mais simples 
 Falando sobre a aplicabilidade nos outros setores da empresa que não sejam TI, o Python vem ganhando força na parte de BI e como um substituto de planilhas excel complexas e difíceis de manter.
 
 ## Conteúdo do curso
-1. O que é são algoritmos?
+1. [O que é são algoritmos?](Tema_1/README.md)
 2. Hello world
 3. Variaveis e operações matemáticas
 4. Estruturas de decisões
