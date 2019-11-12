@@ -14,7 +14,7 @@ Falando sobre a aplicabilidade nos outros setores da empresa que não sejam TI, 
 ## Conteúdo do curso
 1. [O que é são algoritmos?](Tema_1/README.md)
 2. [Hello world](Tema_2/README.md)
-3. Variaveis e operações matemáticas
+3. [Variaveis e operações matemáticas](Tema_3/README.MD)
 4. Estruturas de decisões
 5. Trabalhando com Strings
 6. Laços
