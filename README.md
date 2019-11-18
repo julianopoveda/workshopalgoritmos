@@ -17,7 +17,7 @@ Falando sobre a aplicabilidade nos outros setores da empresa que não sejam TI, 
 3. [Variaveis e operações matemáticas](Tema_3/README.md)
 4. [Estruturas de decisões](Tema_4/README.md)
 5. [Trabalhando com Strings](Tema_5/README.md)
-6. Laços
+6. [Laços](Tema_6/README.md)
 7. Métodos
 8. Coletando informações
 9. Um pouco de orientação a objeto
