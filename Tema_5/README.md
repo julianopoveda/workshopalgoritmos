@@ -22,7 +22,7 @@ Qualquer linguagem que possua tipos possui métodos especiais chamados **ToStrin
 No exemplo .py desta aula (link online aqui :D ) mostram diversos tipos de operações com string. Confere lá.
 
 > Antes de continuarmos, você deve ter notado que as strings e comentários apresentados até agora nos códigos não possuem acentos. Esse comportamento se deve ao fato de por padrão o Python só apresentar caractéres [ANSI](https://pt.wikipedia.org/wiki/ASCII), para resolvermos este problema declaramos a linha a seguir como a primeira linha do arquivo de código 
-```[Python]
+```Python
 #-*- coding: utf-8 -*- 
 ```
 > Esta linha informa para o interpretador do Python como ele deve "desenhar" o código que representa aquela letra/número/símbolo na tela.

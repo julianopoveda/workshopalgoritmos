@@ -75,7 +75,7 @@ por fim temos o encadeamento de testes, pois podemos ter a seguinte situação:
 3. Senão se não esta nublado, devo pegar meu óculos de sol
 4. Senão levo somente a mochila
 
-```[Python]
+```Python
 tempo = "chovendo"
 
 if tempo == "chovendo":
