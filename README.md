@@ -18,7 +18,7 @@ Falando sobre a aplicabilidade nos outros setores da empresa que não sejam TI, 
 4. [Estruturas de decisões](Tema_4/README.md)
 5. [Trabalhando com Strings](Tema_5/README.md)
 6. [Laços](Tema_6/README.md)
-7. Métodos
+7. [Métodos](Tema_7/README.md)
 8. Coletando informações
 9. Um pouco de orientação a objeto
 10. Um programa útil
