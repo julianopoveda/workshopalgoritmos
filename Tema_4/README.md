@@ -2,13 +2,13 @@
 
 Até o momento temos visto uma progressão muito linear, muito certeira de como as instruções devem ser executadas. Porém, a realidade não é linear. 
 Pense na seguinte afirmativas:
-1. Se chover, devo levo o guardachuvas, caso contrário irei me molhar
+1. Se chover, devo levar o guarda-chuva, caso contrário irei me molhar
 2. Esta frio, logo devo colocar um casaco
 
 As mesmas afirmativas poderiam ser invertidas:
 
-3. O tempo dia esta ensolarado, logo posso deixar o guardachuvas em casa pois não irei me molhar
-4. Esta quente, logo posso tirar o casaco.
+3. O dia está ensolarado, logo posso deixar o guardachuvas em casa pois não irei me molhar
+4. Está quente, logo posso tirar o casaco.
 
 Nota-se claramente uma condição para os casos de levar um guardachuvas ou colocar um casaco. No desenvolvimento de algoritmos ocorre exatamente o mesmo. Existem trechos de instruções (para facilitar vou começar a chamar de código) que devem se executados quando uma ou mais condições forem satisfeitas, caso contrário não devem ser executados. Também existe o caso onde um código deve ser executado caso a condição ou as condições não sejam satisfeitas ou em termos de máquina se for verdadeira e outro código deve ser executado caso a condição ou condições não sejam atendidas.
 
