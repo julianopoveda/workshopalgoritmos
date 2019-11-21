@@ -18,4 +18,5 @@ As linguagens de programação são o idioma que utilizamos para montar os algor
 
 Portanto, as linguagens de programação são uma forma em que o ser humano consegue expressar suas intenções em um nível mais alto e com o auxilio de um interpretador de código ou compilador consegue traduzir para um idioma que a máquina entende.
 
+---
 Próximo assunto: [Hello World](../Tema_2/README.md)

@@ -62,5 +62,4 @@ else:
 *Sugestão*: Experimente pegar o programa das aulas 3 e 4 e separar os blocos em métodos e tente utilizar algum destes métodos mais de uma vez
 
 ---
-
 Próximo assunto: [Desafio](../Tema_8/README.md)

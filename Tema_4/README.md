@@ -92,4 +92,5 @@ nome_carro = "ipanema"
 
 [No arquivo de exemplo](https://notebooks.gesis.org/binder/jupyter/user/ipython-ipython-in-depth-upfbnlc1/notebooks/binder/estrutura%20de%20decisoes.ipynb) temos esses es outros exemplos de fluxo. Experimente trocar os valores das variáveis e ver o que acontece
 
+---
 Próximo assunto: [Trabalhando com Strings](../Tema_5/README.md)

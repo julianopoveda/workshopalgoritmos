@@ -17,4 +17,5 @@ Falaremos mais sobre [métodos](../Tema_7/README.md) e [strings](../Tema_5/READM
 
 ### Mude as palavras e veja o que acontece
 
+---
 Próximo assunto: [Variáveis e operações matemáticas](../Tema_3/README.md)

@@ -37,4 +37,5 @@ Toda linguagem de programação possui pelo menos as 4 operações básicas: som
 
 ### Experimente trocar a segunda atribuição da variável largura para o valor "jujuba" ou "10" e veja o erro que acontece
 
+---
 Próximo assunto: [Estruturas de decisões](../Tema_4/README.md)

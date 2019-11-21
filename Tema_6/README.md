@@ -79,4 +79,5 @@ Dá uma conferida como ficaria a versão do fibonacci aqui. Mas só depois de te
 O For geralmente tem aplicação para percorrer listas com inicio e fim bem definidos.
 Já o while é sempre indicado para laços que não se sabe quando ele deve parar, somente qual condição deve ser atendida para ele parar.
 
+---
 Próximo assunto: [Métodos](../Tema_7/README.md)

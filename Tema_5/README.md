@@ -27,4 +27,5 @@ No exemplo .py desta aula (link online aqui :D ) mostram diversos tipos de opera
 ```
 > Esta linha informa para o interpretador do Python como ele deve "desenhar" o código que representa aquela letra/número/símbolo na tela.
 
+---
 Próximo assunto: [Laços](../Tema_6/README.md)

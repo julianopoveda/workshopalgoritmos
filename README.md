@@ -19,7 +19,4 @@ Falando sobre a aplicabilidade nos outros setores da empresa que não sejam TI, 
 5. [Trabalhando com Strings](Tema_5/README.md)
 6. [Laços](Tema_6/README.md)
 7. [Métodos](Tema_7/README.md)
-8. Coletando informações
-9. Um pouco de orientação a objeto
-10. Um programa útil
-11. E a jornada continua (encerramento e onde buscar seguir aprendendo)
+8. [Desafio](Tema_8/README.md)
